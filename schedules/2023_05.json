@@ -1,0 +1,220 @@
+{
+  "2023-05-01": [
+    {
+      "game_id": "0042200211",
+      "home_team": "BOS",
+      "away_team": "PHI"
+    },
+    {
+      "game_id": "0042200222",
+      "home_team": "DEN",
+      "away_team": "PHX"
+    }
+  ],
+  "2023-05-02": [
+    {
+      "game_id": "0042200202",
+      "home_team": "NYK",
+      "away_team": "MIA"
+    },
+    {
+      "game_id": "0042200231",
+      "home_team": "GSW",
+      "away_team": "LAL"
+    }
+  ],
+  "2023-05-03": [
+    {
+      "game_id": "0042200212",
+      "home_team": "BOS",
+      "away_team": "PHI"
+    }
+  ],
+  "2023-05-04": [
+    {
+      "game_id": "0042200232",
+      "home_team": "GSW",
+      "away_team": "LAL"
+    }
+  ],
+  "2023-05-05": [
+    {
+      "game_id": "0042200213",
+      "home_team": "PHI",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0042200223",
+      "home_team": "PHX",
+      "away_team": "DEN"
+    }
+  ],
+  "2023-05-06": [
+    {
+      "game_id": "0042200203",
+      "home_team": "MIA",
+      "away_team": "NYK"
+    },
+    {
+      "game_id": "0042200233",
+      "home_team": "LAL",
+      "away_team": "GSW"
+    }
+  ],
+  "2023-05-07": [
+    {
+      "game_id": "0042200214",
+      "home_team": "PHI",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0042200224",
+      "home_team": "PHX",
+      "away_team": "DEN"
+    }
+  ],
+  "2023-05-08": [
+    {
+      "game_id": "0042200204",
+      "home_team": "MIA",
+      "away_team": "NYK"
+    },
+    {
+      "game_id": "0042200234",
+      "home_team": "LAL",
+      "away_team": "GSW"
+    }
+  ],
+  "2023-05-09": [
+    {
+      "game_id": "0042200215",
+      "home_team": "BOS",
+      "away_team": "PHI"
+    },
+    {
+      "game_id": "0042200225",
+      "home_team": "DEN",
+      "away_team": "PHX"
+    }
+  ],
+  "2023-05-10": [
+    {
+      "game_id": "0042200205",
+      "home_team": "NYK",
+      "away_team": "MIA"
+    },
+    {
+      "game_id": "0042200235",
+      "home_team": "GSW",
+      "away_team": "LAL"
+    }
+  ],
+  "2023-05-11": [
+    {
+      "game_id": "0042200216",
+      "home_team": "PHI",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0042200226",
+      "home_team": "PHX",
+      "away_team": "DEN"
+    }
+  ],
+  "2023-05-12": [
+    {
+      "game_id": "0042200206",
+      "home_team": "MIA",
+      "away_team": "NYK"
+    },
+    {
+      "game_id": "0042200236",
+      "home_team": "LAL",
+      "away_team": "GSW"
+    }
+  ],
+  "2023-05-14": [
+    {
+      "game_id": "0042200217",
+      "home_team": "BOS",
+      "away_team": "PHI"
+    }
+  ],
+  "2023-05-16": [
+    {
+      "game_id": "0042200311",
+      "home_team": "DEN",
+      "away_team": "LAL"
+    }
+  ],
+  "2023-05-17": [
+    {
+      "game_id": "0042200301",
+      "home_team": "BOS",
+      "away_team": "MIA"
+    }
+  ],
+  "2023-05-18": [
+    {
+      "game_id": "0042200312",
+      "home_team": "DEN",
+      "away_team": "LAL"
+    }
+  ],
+  "2023-05-19": [
+    {
+      "game_id": "0042200302",
+      "home_team": "BOS",
+      "away_team": "MIA"
+    }
+  ],
+  "2023-05-20": [
+    {
+      "game_id": "0042200313",
+      "home_team": "LAL",
+      "away_team": "DEN"
+    }
+  ],
+  "2023-05-21": [
+    {
+      "game_id": "0042200303",
+      "home_team": "MIA",
+      "away_team": "BOS"
+    }
+  ],
+  "2023-05-22": [
+    {
+      "game_id": "0042200314",
+      "home_team": "LAL",
+      "away_team": "DEN"
+    }
+  ],
+  "2023-05-23": [
+    {
+      "game_id": "0042200304",
+      "home_team": "MIA",
+      "away_team": "BOS"
+    }
+  ],
+  "2023-05-25": [
+    {
+      "game_id": "0042200305",
+      "home_team": "BOS",
+      "away_team": "MIA"
+    }
+  ],
+  "2023-05-27": [
+    {
+      "game_id": "0042200306",
+      "home_team": "MIA",
+      "away_team": "BOS"
+    }
+  ],
+  "2023-05-29": [
+    {
+      "game_id": "0042200307",
+      "home_team": "BOS",
+      "away_team": "MIA"
+    }
+  ]
+}

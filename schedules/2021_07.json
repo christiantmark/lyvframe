@@ -1,0 +1,58 @@
+{
+  "2021-07-01": [
+    {
+      "game_id": "0042000305",
+      "home_team": "MIL",
+      "away_team": "ATL"
+    }
+  ],
+  "2021-07-03": [
+    {
+      "game_id": "0042000306",
+      "home_team": "ATL",
+      "away_team": "MIL"
+    }
+  ],
+  "2021-07-06": [
+    {
+      "game_id": "0042000401",
+      "home_team": "PHX",
+      "away_team": "MIL"
+    }
+  ],
+  "2021-07-08": [
+    {
+      "game_id": "0042000402",
+      "home_team": "PHX",
+      "away_team": "MIL"
+    }
+  ],
+  "2021-07-11": [
+    {
+      "game_id": "0042000403",
+      "home_team": "MIL",
+      "away_team": "PHX"
+    }
+  ],
+  "2021-07-14": [
+    {
+      "game_id": "0042000404",
+      "home_team": "MIL",
+      "away_team": "PHX"
+    }
+  ],
+  "2021-07-17": [
+    {
+      "game_id": "0042000405",
+      "home_team": "PHX",
+      "away_team": "MIL"
+    }
+  ],
+  "2021-07-20": [
+    {
+      "game_id": "0042000406",
+      "home_team": "MIL",
+      "away_team": "PHX"
+    }
+  ]
+}

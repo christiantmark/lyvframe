@@ -1,0 +1,51 @@
+{
+  "2025-06-05": [
+    {
+      "game_id": "0042400401",
+      "home_team": "OKC",
+      "away_team": "IND"
+    }
+  ],
+  "2025-06-08": [
+    {
+      "game_id": "0042400402",
+      "home_team": "OKC",
+      "away_team": "IND"
+    }
+  ],
+  "2025-06-11": [
+    {
+      "game_id": "0042400403",
+      "home_team": "IND",
+      "away_team": "OKC"
+    }
+  ],
+  "2025-06-13": [
+    {
+      "game_id": "0042400404",
+      "home_team": "IND",
+      "away_team": "OKC"
+    }
+  ],
+  "2025-06-16": [
+    {
+      "game_id": "0042400405",
+      "home_team": "OKC",
+      "away_team": "IND"
+    }
+  ],
+  "2025-06-19": [
+    {
+      "game_id": "0042400406",
+      "home_team": "IND",
+      "away_team": "OKC"
+    }
+  ],
+  "2025-06-22": [
+    {
+      "game_id": "0042400407",
+      "home_team": "OKC",
+      "away_team": "IND"
+    }
+  ]
+}

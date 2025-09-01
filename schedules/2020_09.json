@@ -1,0 +1,232 @@
+{
+  "2020-09-01": [
+    {
+      "game_id": "0041900167",
+      "home_team": "DEN",
+      "away_team": "UTA"
+    },
+    {
+      "game_id": "0041900212",
+      "home_team": "TOR",
+      "away_team": "BOS"
+    }
+  ],
+  "2020-09-02": [
+    {
+      "game_id": "0041900177",
+      "home_team": "HOU",
+      "away_team": "OKC"
+    },
+    {
+      "game_id": "0041900202",
+      "home_team": "MIL",
+      "away_team": "MIA"
+    }
+  ],
+    "2020-09-03": [
+    {
+      "game_id": "0041900213",
+      "home_team": "BOS",
+      "away_team": "TOR"
+    },
+    {
+      "game_id": "0041900231",
+      "home_team": "LAC",
+      "away_team": "DEN"
+    }
+  ],
+   "2020-09-04": [
+    {
+      "game_id": "0041900203",
+      "home_team": "MIA",
+      "away_team": "MIL"
+    },
+    {
+      "game_id": "0041900221",
+      "home_team": "LAL",
+      "away_team": "HOU"
+    }
+  ],
+  "2020-09-05": [
+    {
+      "game_id": "0041900214",
+      "home_team": "BOS",
+      "away_team": "TOR"
+    },
+    {
+      "game_id": "0041900232",
+      "home_team": "LAC",
+      "away_team": "DEN"
+    }
+  ],
+  "2020-09-06": [
+    {
+      "game_id": "0041900204",
+      "home_team": "MIA",
+      "away_team": "MIL"
+    },
+    {
+      "game_id": "0041900222",
+      "home_team": "LAL",
+      "away_team": "HOU"
+    }
+  ],
+  "2020-09-07": [
+    {
+      "game_id": "0041900215",
+      "home_team": "TOR",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0041900233",
+      "home_team": "DEN",
+      "away_team": "LAC"
+    }
+  ],
+  "2020-09-08": [
+    {
+      "game_id": "0041900205",
+      "home_team": "MIL",
+      "away_team": "MIA"
+    },
+    {
+      "game_id": "0041900223",
+      "home_team": "HOU",
+      "away_team": "LAL"
+    }
+  ],
+  "2020-09-09": [
+    {
+      "game_id": "0041900216",
+      "home_team": "BOS",
+      "away_team": "TOR"
+    },
+    {
+      "game_id": "0041900234",
+      "home_team": "DEN",
+      "away_team": "LAC"
+    }
+  ],
+  "2020-09-10": [
+    {
+      "game_id": "0041900224",
+      "home_team": "HOU",
+      "away_team": "LAL"
+    }
+  ],
+  "2020-09-11": [
+    {
+      "game_id": "0041900217",
+      "home_team": "TOR",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0041900235",
+      "home_team": "LAC",
+      "away_team": "DEN"
+    }
+  ],
+  "2020-09-12": [
+    {
+      "game_id": "0041900225",
+      "home_team": "LAL",
+      "away_team": "HOU"
+    }
+  ],
+  "2020-09-13": [
+    {
+      "game_id": "0041900236",
+      "home_team": "DEN",
+      "away_team": "LAC"
+    }
+  ],
+  "2020-09-15": [
+    {
+      "game_id": "0041900237",
+      "home_team": "LAC",
+      "away_team": "DEN"
+    },
+    {
+      "game_id": "0041900301",
+      "home_team": "BOS",
+      "away_team": "MIA"
+    }
+  ],
+  "2020-09-17": [
+    {
+      "game_id": "0041900302",
+      "home_team": "BOS",
+      "away_team": "MIA"
+    }
+  ],
+  "2020-09-18": [
+    {
+      "game_id": "0041900311",
+      "home_team": "LAL",
+      "away_team": "DEN"
+    }
+  ],
+  "2020-09-19": [
+    {
+      "game_id": "0041900303",
+      "home_team": "MIA",
+      "away_team": "BOS"
+    }
+  ],
+  "2020-09-20": [
+    {
+      "game_id": "0041900312",
+      "home_team": "LAL",
+      "away_team": "DEN"
+    }
+  ],
+  "2020-09-22": [
+    {
+      "game_id": "0041900313",
+      "home_team": "DEN",
+      "away_team": "LAL"
+    }
+  ],
+  "2020-09-23": [
+    {
+      "game_id": "0041900304",
+      "home_team": "MIA",
+      "away_team": "BOS"
+    }
+  ],
+  "2020-09-24": [
+    {
+      "game_id": "0041900314",
+      "home_team": "DEN",
+      "away_team": "LAL"
+    }
+  ],
+  "2020-09-25": [
+    {
+      "game_id": "0041900305",
+      "home_team": "BOS",
+      "away_team": "MIA"
+    }
+  ],
+  "2020-09-26": [
+    {
+      "game_id": "0041900315",
+      "home_team": "LAL",
+      "away_team": "DEN"
+    }
+  ],
+  "2020-09-27": [
+    {
+      "game_id": "0041900306",
+      "home_team": "MIA",
+      "away_team": "BOS"
+    }
+  ],
+  "2020-09-30": [
+    {
+      "game_id": "0041900401",
+      "home_team": "LAL",
+      "away_team": "MIA"
+    }
+  ]
+}

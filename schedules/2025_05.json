@@ -1,0 +1,253 @@
+{
+  "2025-05-01": [
+    {
+      "game_id": "0042400126",
+      "home_team": "DET",
+      "away_team": "NYK"
+    },
+    {
+      "game_id": "0042400176",
+      "home_team": "LAC",
+      "away_team": "DEN"
+    }
+  ],
+  "2025-05-02": [
+    {
+      "game_id": "0042400156",
+      "home_team": "GSW",
+      "away_team": "HOU"
+    }
+  ],
+  "2025-05-03": [
+    {
+      "game_id": "0042400177",
+      "home_team": "DEN",
+      "away_team": "LAC"
+    }
+  ],
+  "2025-05-04": [
+    {
+      "game_id": "0042400157",
+      "home_team": "HOU",
+      "away_team": "GSW"
+    },
+    {
+      "game_id": "0042400201",
+      "home_team": "CLE",
+      "away_team": "IND"
+    }
+  ],
+  "2025-05-05": [
+    {
+      "game_id": "0042400211",
+      "home_team": "BOS",
+      "away_team": "NYK"
+    },
+    {
+      "game_id": "0042400221",
+      "home_team": "OKC",
+      "away_team": "DEN"
+    }
+  ],
+  "2025-05-06": [
+    {
+      "game_id": "0042400202",
+      "home_team": "CLE",
+      "away_team": "IND"
+    },
+    {
+      "game_id": "0042400231",
+      "home_team": "MIN",
+      "away_team": "GSW"
+    }
+  ],
+  "2025-05-07": [
+    {
+      "game_id": "0042400212",
+      "home_team": "BOS",
+      "away_team": "NYK"
+    },
+    {
+      "game_id": "0042400222",
+      "home_team": "OKC",
+      "away_team": "DEN"
+    }
+  ],
+  "2025-05-08": [
+    {
+      "game_id": "0042400232",
+      "home_team": "MIN",
+      "away_team": "GSW"
+    }
+  ],
+  "2025-05-09": [
+    {
+      "game_id": "0042400203",
+      "home_team": "IND",
+      "away_team": "CLE"
+    },
+    {
+      "game_id": "0042400223",
+      "home_team": "DEN",
+      "away_team": "OKC"
+    }
+  ],
+  "2025-05-10": [
+    {
+      "game_id": "0042400213",
+      "home_team": "NYK",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0042400233",
+      "home_team": "GSW",
+      "away_team": "MIN"
+    }
+  ],
+  "2025-05-11": [
+    {
+      "game_id": "0042400204",
+      "home_team": "IND",
+      "away_team": "CLE"
+    },
+    {
+      "game_id": "0042400224",
+      "home_team": "DEN",
+      "away_team": "OKC"
+    }
+  ],
+  "2025-05-12": [
+    {
+      "game_id": "0042400214",
+      "home_team": "NYK",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0042400234",
+      "home_team": "GSW",
+      "away_team": "MIN"
+    }
+  ],
+  "2025-05-13": [
+    {
+      "game_id": "0042400205",
+      "home_team": "CLE",
+      "away_team": "IND"
+    },
+    {
+      "game_id": "0042400225",
+      "home_team": "OKC",
+      "away_team": "DEN"
+    }
+  ],
+  "2025-05-14": [
+    {
+      "game_id": "0042400215",
+      "home_team": "BOS",
+      "away_team": "NYK"
+    },
+    {
+      "game_id": "0042400235",
+      "home_team": "MIN",
+      "away_team": "GSW"
+    }
+  ],
+  "2025-05-15": [
+    {
+      "game_id": "0042400226",
+      "home_team": "DEN",
+      "away_team": "OKC"
+    }
+  ],
+  "2025-05-16": [
+    {
+      "game_id": "0042400216",
+      "home_team": "NYK",
+      "away_team": "BOS"
+    }
+  ],
+  "2025-05-18": [
+    {
+      "game_id": "0042400227",
+      "home_team": "OKC",
+      "away_team": "DEN"
+    }
+  ],
+  "2025-05-20": [
+    {
+      "game_id": "0042400311",
+      "home_team": "OKC",
+      "away_team": "MIN"
+    }
+  ],
+  "2025-05-21": [
+    {
+      "game_id": "0042400301",
+      "home_team": "NYK",
+      "away_team": "IND"
+    }
+  ],
+  "2025-05-22": [
+    {
+      "game_id": "0042400312",
+      "home_team": "OKC",
+      "away_team": "MIN"
+    }
+  ],
+  "2025-05-23": [
+    {
+      "game_id": "0042400302",
+      "home_team": "NYK",
+      "away_team": "IND"
+    }
+  ],
+  "2025-05-24": [
+    {
+      "game_id": "0042400313",
+      "home_team": "MIN",
+      "away_team": "OKC"
+    }
+  ],
+  "2025-05-25": [
+    {
+      "game_id": "0042400303",
+      "home_team": "IND",
+      "away_team": "NYK"
+    }
+  ],
+  "2025-05-26": [
+    {
+      "game_id": "0042400314",
+      "home_team": "MIN",
+      "away_team": "OKC"
+    }
+  ],
+  "2025-05-27": [
+    {
+      "game_id": "0042400304",
+      "home_team": "IND",
+      "away_team": "NYK"
+    }
+  ],
+  "2025-05-28": [
+    {
+      "game_id": "0042400315",
+      "home_team": "OKC",
+      "away_team": "MIN"
+    }
+  ],
+  "2025-05-29": [
+    {
+      "game_id": "0042400305",
+      "home_team": "NYK",
+      "away_team": "IND"
+    }
+  ],
+  "2025-05-31": [
+    {
+      "game_id": "0042400306",
+      "home_team": "IND",
+      "away_team": "NYK"
+    }
+  ]
+}

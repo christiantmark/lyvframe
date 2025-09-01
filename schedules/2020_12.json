@@ -1,0 +1,355 @@
+{
+  "2020-12-22": [
+    {
+      "game_id": "0022000001",
+      "home_team": "BKN",
+      "away_team": "GSW"
+    },
+    {
+      "game_id": "0022000002",
+      "home_team": "LAL",
+      "away_team": "LAC"
+    }
+  ],
+  "2020-12-23": [
+    {
+      "game_id": "0022000003",
+      "home_team": "BOS",
+      "away_team": "MIL"
+    },
+    {
+      "game_id": "0022000004",
+      "home_team": "PHX",
+      "away_team": "DAL"
+    },
+    {
+      "game_id": "0022000010",
+      "home_team": "CLE",
+      "away_team": "CHA"
+    },
+    {
+      "game_id": "0022000011",
+      "home_team": "IND",
+      "away_team": "NYK"
+    },
+    {
+      "game_id": "0022000012",
+      "home_team": "ORL",
+      "away_team": "MIA"
+    },
+    {
+      "game_id": "0022000013",
+      "home_team": "PHI",
+      "away_team": "WAS"
+    },
+    {
+      "game_id": "0022000014",
+      "home_team": "TOR",
+      "away_team": "NOP"
+    },
+    {
+      "game_id": "0022000015",
+      "home_team": "CHI",
+      "away_team": "ATL"
+    },
+    {
+      "game_id": "0022000017",
+      "home_team": "MEM",
+      "away_team": "SAS"
+    },
+    {
+      "game_id": "0022000018",
+      "home_team": "MIN",
+      "away_team": "DET"
+    },
+    {
+      "game_id": "0022000019",
+      "home_team": "DEN",
+      "away_team": "SAC"
+    },
+    {
+      "game_id": "0022000020",
+      "home_team": "POR",
+      "away_team": "UTA"
+    }
+  ],
+  "2020-12-25": [
+    {
+      "game_id": "0022000005",
+      "home_team": "MIA",
+      "away_team": "NOP"
+    },
+    {
+      "game_id": "0022000006",
+      "home_team": "MIL",
+      "away_team": "GSW"
+    },
+    {
+      "game_id": "0022000007",
+      "home_team": "BOS",
+      "away_team": "BKN"
+    },
+    {
+      "game_id": "0022000008",
+      "home_team": "LAL",
+      "away_team": "DAL"
+    },
+    {
+      "game_id": "0022000009",
+      "home_team": "DEN",
+      "away_team": "LAC"
+    }
+  ],
+  "2020-12-26": [
+    {
+      "game_id": "0022000021",
+      "home_team": "MEM",
+      "away_team": "ATL"
+    },
+    {
+      "game_id": "0022000022",
+      "home_team": "CHA",
+      "away_team": "OKC"
+    },
+    {
+      "game_id": "0022000023",
+      "home_team": "DET",
+      "away_team": "CLE"
+    },
+    {
+      "game_id": "0022000024",
+      "home_team": "WAS",
+      "away_team": "ORL"
+    },
+    {
+      "game_id": "0022000025",
+      "home_team": "NYK",
+      "away_team": "PHI"
+    },
+    {
+      "game_id": "0022000026",
+      "home_team": "CHI",
+      "away_team": "IND"
+    },
+    {
+      "game_id": "0022000027",
+      "home_team": "SAS",
+      "away_team": "TOR"
+    },
+    {
+      "game_id": "0022000028",
+      "home_team": "UTA",
+      "away_team": "MIN"
+    },
+    {
+      "game_id": "0022000029",
+      "home_team": "POR",
+      "away_team": "HOU"
+    },
+    {
+      "game_id": "0022000030",
+      "home_team": "SAC",
+      "away_team": "PHX"
+    }
+  ],
+  "2020-12-27": [
+    {
+      "game_id": "0022000031",
+      "home_team": "LAC",
+      "away_team": "DAL"
+    },
+    {
+      "game_id": "0022000032",
+      "home_team": "CHA",
+      "away_team": "BKN"
+    },
+    {
+      "game_id": "0022000033",
+      "home_team": "WAS",
+      "away_team": "ORL"
+    },
+    {
+      "game_id": "0022000034",
+      "home_team": "NOP",
+      "away_team": "SAS"
+    },
+    {
+      "game_id": "0022000035",
+      "home_team": "CLE",
+      "away_team": "PHI"
+    },
+    {
+      "game_id": "0022000036",
+      "home_team": "NYK",
+      "away_team": "MIL"
+    },
+    {
+      "game_id": "0022000037",
+      "home_team": "IND",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0022000038",
+      "home_team": "CHI",
+      "away_team": "GSW"
+    },
+    {
+      "game_id": "0022000039",
+      "home_team": "SAC",
+      "away_team": "PHX"
+    },
+    {
+      "game_id": "0022000040",
+      "home_team": "LAL",
+      "away_team": "MIN"
+    }
+  ],
+  "2020-12-28": [
+    {
+      "game_id": "0022000041",
+      "home_team": "ATL",
+      "away_team": "DET"
+    },
+    {
+      "game_id": "0022000042",
+      "home_team": "BKN",
+      "away_team": "MEM"
+    },
+    {
+      "game_id": "0022000043",
+      "home_team": "OKC",
+      "away_team": "UTA"
+    },
+    {
+      "game_id": "0022000044",
+      "home_team": "DEN",
+      "away_team": "HOU"
+    },
+    {
+      "game_id": "0022000045",
+      "home_team": "LAL",
+      "away_team": "POR"
+    }
+  ],
+  "2020-12-29": [
+    {
+      "game_id": "0022000046",
+      "home_team": "CLE",
+      "away_team": "NYK"
+    },
+    {
+      "game_id": "0022000047",
+      "home_team": "DET",
+      "away_team": "GSW"
+    },
+    {
+      "game_id": "0022000048",
+      "home_team": "IND",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0022000049",
+      "home_team": "PHI",
+      "away_team": "TOR"
+    },
+    {
+      "game_id": "0022000050",
+      "home_team": "WAS",
+      "away_team": "CHI"
+    },
+    {
+      "game_id": "0022000051",
+      "home_team": "MIA",
+      "away_team": "MIL"
+    },
+    {
+      "game_id": "0022000052",
+      "home_team": "OKC",
+      "away_team": "ORL"
+    },
+    {
+      "game_id": "0022000053",
+      "home_team": "PHX",
+      "away_team": "NOP"
+    },
+    {
+      "game_id": "0022000054",
+      "home_team": "LAC",
+      "away_team": "MIN"
+    },
+    {
+      "game_id": "0022000055",
+      "home_team": "SAC",
+      "away_team": "DEN"
+    }
+  ],
+  "2020-12-30": [
+    {
+      "game_id": "0022000056",
+      "home_team": "BOS",
+      "away_team": "MEM"
+    },
+    {
+      "game_id": "0022000057",
+      "home_team": "BKN",
+      "away_team": "ATL"
+    },
+    {
+      "game_id": "0022000058",
+      "home_team": "MIA",
+      "away_team": "MIL"
+    },
+    {
+      "game_id": "0022000059",
+      "home_team": "DAL",
+      "away_team": "CHA"
+    },
+    {
+      "game_id": "0022000060",
+      "home_team": "SAS",
+      "away_team": "LAL"
+    },
+    {
+      "game_id": "0022000061",
+      "home_team": "LAC",
+      "away_team": "POR"
+    }
+  ],
+  "2020-12-31": [
+    {
+      "game_id": "0022000062",
+      "home_team": "IND",
+      "away_team": "CLE"
+    },
+    {
+      "game_id": "0022000063",
+      "home_team": "WAS",
+      "away_team": "CHI"
+    },
+    {
+      "game_id": "0022000064",
+      "home_team": "ORL",
+      "away_team": "PHI"
+    },
+    {
+      "game_id": "0022000065",
+      "home_team": "HOU",
+      "away_team": "SAC"
+    },
+    {
+      "game_id": "0022000066",
+      "home_team": "TOR",
+      "away_team": "NYK"
+    },
+    {
+      "game_id": "0022000067",
+      "home_team": "OKC",
+      "away_team": "NOP"
+    },
+    {
+      "game_id": "0022000068",
+      "home_team": "UTA",
+      "away_team": "PHX"
+    }
+  ]
+}

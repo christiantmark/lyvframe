@@ -1,0 +1,362 @@
+{
+  "2019-10-22": [
+    {
+      "game_id": "0021900001",
+      "home_team": "TOR",
+      "away_team": "NOP"
+    },
+    {
+      "game_id": "0021900002",
+      "home_team": "LAC",
+      "away_team": "LAL"
+    }
+  ],
+  "2019-10-23": [
+    {
+      "game_id": "0021900003",
+      "home_team": "CHA",
+      "away_team": "CHI"
+    },
+    {
+      "game_id": "0021900004",
+      "home_team": "IND",
+      "away_team": "DET"
+    },
+    {
+      "game_id": "0021900005",
+      "home_team": "ORL",
+      "away_team": "CLE"
+    },
+    {
+      "game_id": "0021900006",
+      "home_team": "BKN",
+      "away_team": "MIN"
+    },
+    {
+      "game_id": "0021900007",
+      "home_team": "MIA",
+      "away_team": "MEM"
+    },
+    {
+      "game_id": "0021900008",
+      "home_team": "PHI",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0021900009",
+      "home_team": "DAL",
+      "away_team": "WAS"
+    },
+    {
+      "game_id": "0021900010",
+      "home_team": "SAS",
+      "away_team": "NYK"
+    },
+    {
+      "game_id": "0021900011",
+      "home_team": "UTA",
+      "away_team": "OKC"
+    },
+    {
+      "game_id": "0021900012",
+      "home_team": "PHX",
+      "away_team": "SAC"
+    },
+    {
+      "game_id": "0021900013",
+      "home_team": "POR",
+      "away_team": "DEN"
+    }
+  ],
+  "2019-10-24": [
+    {
+      "game_id": "0021900014",
+      "home_team": "DET",
+      "away_team": "ATL"
+    },
+    {
+      "game_id": "0021900015",
+      "home_team": "HOU",
+      "away_team": "MIL"
+    },
+    {
+      "game_id": "0021900016",
+      "home_team": "GSW",
+      "away_team": "LAC"
+    }
+  ],
+  "2019-10-25": [
+    {
+      "game_id": "0021900017",
+      "home_team": "BOS",
+      "away_team": "TOR"
+    },
+    {
+      "game_id": "0021900018",
+      "home_team": "CHA",
+      "away_team": "MIN"
+    },
+    {
+      "game_id": "0021900019",
+      "home_team": "BKN",
+      "away_team": "NYK"
+    },
+    {
+      "game_id": "0021900020",
+      "home_team": "MEM",
+      "away_team": "CHI"
+    },
+    {
+      "game_id": "0021900021",
+      "home_team": "NOP",
+      "away_team": "DAL"
+    },
+    {
+      "game_id": "0021900022",
+      "home_team": "OKC",
+      "away_team": "WAS"
+    },
+    {
+      "game_id": "0021900023",
+      "home_team": "DEN",
+      "away_team": "PHX"
+    },
+    {
+      "game_id": "0021900024",
+      "home_team": "SAC",
+      "away_team": "POR"
+    },
+    {
+      "game_id": "0021900025",
+      "home_team": "LAL",
+      "away_team": "UTA"
+    }
+  ],
+  "2019-10-26": [
+    {
+      "game_id": "0021900026",
+      "home_team": "MIL",
+      "away_team": "MIA"
+    },
+    {
+      "game_id": "0021900027",
+      "home_team": "DET",
+      "away_team": "PHI"
+    },
+    {
+      "game_id": "0021900028",
+      "home_team": "ATL",
+      "away_team": "ORL"
+    },
+    {
+      "game_id": "0021900029",
+      "home_team": "NYK",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0021900030",
+      "home_team": "CLE",
+      "away_team": "IND"
+    },
+    {
+      "game_id": "0021900031",
+      "home_team": "CHI",
+      "away_team": "TOR"
+    },
+    {
+      "game_id": "0021900032",
+      "home_team": "HOU",
+      "away_team": "NOP"
+    },
+    {
+      "game_id": "0021900033",
+      "home_team": "SAS",
+      "away_team": "WAS"
+    },
+    {
+      "game_id": "0021900034",
+      "home_team": "UTA",
+      "away_team": "SAC"
+    },
+    {
+      "game_id": "0021900035",
+      "home_team": "PHX",
+      "away_team": "LAC"
+    }
+  ],
+  "2019-10-27": [
+    {
+      "game_id": "0021900036",
+      "home_team": "OKC",
+      "away_team": "GSW"
+    },
+    {
+      "game_id": "0021900037",
+      "home_team": "MEM",
+      "away_team": "BKN"
+    },
+    {
+      "game_id": "0021900038",
+      "home_team": "DAL",
+      "away_team": "POR"
+    },
+    {
+      "game_id": "0021900039",
+      "home_team": "MIN",
+      "away_team": "MIA"
+    },
+    {
+      "game_id": "0021900040",
+      "home_team": "LAL",
+      "away_team": "CHA"
+    }
+  ],
+  "2019-10-28": [
+    {
+      "game_id": "0021900041",
+      "home_team": "DET",
+      "away_team": "IND"
+    },
+    {
+      "game_id": "0021900042",
+      "home_team": "NYK",
+      "away_team": "CHI"
+    },
+    {
+      "game_id": "0021900043",
+      "home_team": "ATL",
+      "away_team": "PHI"
+    },
+    {
+      "game_id": "0021900044",
+      "home_team": "TOR",
+      "away_team": "ORL"
+    },
+    {
+      "game_id": "0021900045",
+      "home_team": "HOU",
+      "away_team": "OKC"
+    },
+    {
+      "game_id": "0021900046",
+      "home_team": "MIL",
+      "away_team": "CLE"
+    },
+    {
+      "game_id": "0021900047",
+      "home_team": "NOP",
+      "away_team": "GSW"
+    },
+    {
+      "game_id": "0021900048",
+      "home_team": "SAS",
+      "away_team": "POR"
+    },
+    {
+      "game_id": "0021900049",
+      "home_team": "PHX",
+      "away_team": "UTA"
+    },
+    {
+      "game_id": "0021900050",
+      "home_team": "SAC",
+      "away_team": "DEN"
+    },
+    {
+      "game_id": "0021900051",
+      "home_team": "LAC",
+      "away_team": "CHA"
+    }
+  ],
+  "2019-10-29": [
+    {
+      "game_id": "0021900052",
+      "home_team": "MIA",
+      "away_team": "ATL"
+    },
+    {
+      "game_id": "0021900053",
+      "home_team": "DEN",
+      "away_team": "DAL"
+    },
+    {
+      "game_id": "0021900054",
+      "home_team": "LAL",
+      "away_team": "MEM"
+    }
+  ],
+  "2019-10-30": [
+    {
+      "game_id": "0021900055",
+      "home_team": "CLE",
+      "away_team": "CHI"
+    },
+    {
+      "game_id": "0021900056",
+      "home_team": "ORL",
+      "away_team": "NYK"
+    },
+    {
+      "game_id": "0021900057",
+      "home_team": "PHI",
+      "away_team": "MIN"
+    },
+    {
+      "game_id": "0021900058",
+      "home_team": "BOS",
+      "away_team": "MIL"
+    },
+    {
+      "game_id": "0021900059",
+      "home_team": "BKN",
+      "away_team": "IND"
+    },
+    {
+      "game_id": "0021900060",
+      "home_team": "TOR",
+      "away_team": "DET"
+    },
+    {
+      "game_id": "0021900061",
+      "home_team": "WAS",
+      "away_team": "HOU"
+    },
+    {
+      "game_id": "0021900062",
+      "home_team": "OKC",
+      "away_team": "POR"
+    },
+    {
+      "game_id": "0021900063",
+      "home_team": "UTA",
+      "away_team": "LAC"
+    },
+    {
+      "game_id": "0021900064",
+      "home_team": "SAC",
+      "away_team": "CHA"
+    },
+    {
+      "game_id": "0021900065",
+      "home_team": "GSW",
+      "away_team": "PHX"
+    }
+  ],
+  "2019-10-31": [
+    {
+      "game_id": "0021900066",
+      "home_team": "ATL",
+      "away_team": "MIA"
+    },
+    {
+      "game_id": "0021900067",
+      "home_team": "NOP",
+      "away_team": "DEN"
+    },
+    {
+      "game_id": "0021900068",
+      "home_team": "LAC",
+      "away_team": "SAS"
+    }
+  ]
+}

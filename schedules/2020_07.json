@@ -1,0 +1,46 @@
+{
+  "2020-07-30": [
+    {
+      "game_id": "0021901231",
+      "home_team": "NOP",
+      "away_team": "UTA"
+    },
+    {
+      "game_id": "0021901232",
+      "home_team": "LAL",
+      "away_team": "LAC"
+    }
+  ],
+  "2020-07-31": [
+    {
+      "game_id": "0021901233",
+      "home_team": "BKN",
+      "away_team": "ORL"
+    },
+    {
+      "game_id": "0021901234",
+      "home_team": "POR",
+      "away_team": "MEM"
+    },
+    {
+      "game_id": "0021901235",
+      "home_team": "WAS",
+      "away_team": "PHX"
+    },
+    {
+      "game_id": "0021901236",
+      "home_team": "MIL",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0021901237",
+      "home_team": "SAS",
+      "away_team": "SAC"
+    },
+    {
+      "game_id": "0021901238",
+      "home_team": "DAL",
+      "away_team": "HOU"
+    }
+  ]
+}

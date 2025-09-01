@@ -1,0 +1,44 @@
+{
+  "2022-06-02": [
+    {
+      "game_id": "0042100401",
+      "home_team": "GSW",
+      "away_team": "BOS"
+    }
+  ],
+  "2022-06-05": [
+    {
+      "game_id": "0042100402",
+      "home_team": "GSW",
+      "away_team": "BOS"
+    }
+  ],
+  "2022-06-08": [
+    {
+      "game_id": "0042100403",
+      "home_team": "BOS",
+      "away_team": "GSW"
+    }
+  ],
+  "2022-06-10": [
+    {
+      "game_id": "0042100404",
+      "home_team": "BOS",
+      "away_team": "GSW"
+    }
+  ],
+  "2022-06-13": [
+    {
+      "game_id": "0042100405",
+      "home_team": "GSW",
+      "away_team": "BOS"
+    }
+  ],
+  "2022-06-16": [
+    {
+      "game_id": "0042100406",
+      "home_team": "BOS",
+      "away_team": "GSW"
+    }
+  ]
+}

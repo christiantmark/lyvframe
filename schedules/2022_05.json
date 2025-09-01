@@ -1,0 +1,242 @@
+{
+  "2022-05-01": [
+    {
+      "game_id": "0042100211",
+      "home_team": "BOS",
+      "away_team": "MIL"
+    },
+    {
+      "game_id": "0042100231",
+      "home_team": "MEM",
+      "away_team": "GSW"
+    }
+  ],
+  "2022-05-02": [
+    {
+      "game_id": "0042100201",
+      "home_team": "MIA",
+      "away_team": "PHI"
+    },
+    {
+      "game_id": "0042100221",
+      "home_team": "PHX",
+      "away_team": "DAL"
+    }
+  ],
+  "2022-05-03": [
+    {
+      "game_id": "0042100212",
+      "home_team": "BOS",
+      "away_team": "MIL"
+    },
+    {
+      "game_id": "0042100232",
+      "home_team": "MEM",
+      "away_team": "GSW"
+    }
+  ],
+  "2022-05-04": [
+    {
+      "game_id": "0042100202",
+      "home_team": "MIA",
+      "away_team": "PHI"
+    },
+    {
+      "game_id": "0042100222",
+      "home_team": "PHX",
+      "away_team": "DAL"
+    }
+  ],
+  "2022-05-06": [
+    {
+      "game_id": "0042100203",
+      "home_team": "PHI",
+      "away_team": "MIA"
+    },
+    {
+      "game_id": "0042100223",
+      "home_team": "DAL",
+      "away_team": "PHX"
+    }
+  ],
+  "2022-05-07": [
+    {
+      "game_id": "0042100213",
+      "home_team": "MIL",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0042100233",
+      "home_team": "GSW",
+      "away_team": "MEM"
+    }
+  ],
+  "2022-05-08": [
+    {
+      "game_id": "0042100204",
+      "home_team": "PHI",
+      "away_team": "MIA"
+    },
+    {
+      "game_id": "0042100224",
+      "home_team": "DAL",
+      "away_team": "PHX"
+    }
+  ],
+  "2022-05-09": [
+    {
+      "game_id": "0042100214",
+      "home_team": "MIL",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0042100234",
+      "home_team": "GSW",
+      "away_team": "MEM"
+    }
+  ],
+  "2022-05-10": [
+    {
+      "game_id": "0042100205",
+      "home_team": "MIA",
+      "away_team": "PHI"
+    },
+    {
+      "game_id": "0042100225",
+      "home_team": "PHX",
+      "away_team": "DAL"
+    }
+  ],
+  "2022-05-11": [
+    {
+      "game_id": "0042100215",
+      "home_team": "BOS",
+      "away_team": "MIL"
+    },
+    {
+      "game_id": "0042100235",
+      "home_team": "MEM",
+      "away_team": "GSW"
+    }
+  ],
+  "2022-05-12": [
+    {
+      "game_id": "0042100206",
+      "home_team": "PHI",
+      "away_team": "MIA"
+    },
+    {
+      "game_id": "0042100226",
+      "home_team": "DAL",
+      "away_team": "PHX"
+    }
+  ],
+  "2022-05-13": [
+    {
+      "game_id": "0042100216",
+      "home_team": "MIL",
+      "away_team": "BOS"
+    },
+    {
+      "game_id": "0042100236",
+      "home_team": "GSW",
+      "away_team": "MEM"
+    }
+  ],
+  "2022-05-15": [
+    {
+      "game_id": "0042100217",
+      "home_team": "BOS",
+      "away_team": "MIL"
+    },
+    {
+      "game_id": "0042100227",
+      "home_team": "PHX",
+      "away_team": "DAL"
+    }
+  ],
+  "2022-05-17": [
+    {
+      "game_id": "0042100301",
+      "home_team": "MIA",
+      "away_team": "BOS"
+    }
+  ],
+  "2022-05-18": [
+    {
+      "game_id": "0042100311",
+      "home_team": "GSW",
+      "away_team": "DAL"
+    }
+  ],
+  "2022-05-19": [
+    {
+      "game_id": "0042100302",
+      "home_team": "MIA",
+      "away_team": "BOS"
+    }
+  ],
+  "2022-05-20": [
+    {
+      "game_id": "0042100312",
+      "home_team": "GSW",
+      "away_team": "DAL"
+    }
+  ],
+  "2022-05-21": [
+    {
+      "game_id": "0042100303",
+      "home_team": "BOS",
+      "away_team": "MIA"
+    }
+  ],
+  "2022-05-22": [
+    {
+      "game_id": "0042100313",
+      "home_team": "DAL",
+      "away_team": "GSW"
+    }
+  ],
+  "2022-05-23": [
+    {
+      "game_id": "0042100304",
+      "home_team": "BOS",
+      "away_team": "MIA"
+    }
+  ],
+  "2022-05-24": [
+    {
+      "game_id": "0042100314",
+      "home_team": "DAL",
+      "away_team": "GSW"
+    }
+  ],
+  "2022-05-25": [
+    {
+      "game_id": "0042100305",
+      "home_team": "MIA",
+      "away_team": "BOS"
+    }
+  ],
+  "2022-05-26": [
+    {
+      "game_id": "0042100315",
+      "home_team": "GSW",
+      "away_team": "DAL"
+    }
+  ],
+  "2022-05-27": [
+    {
+      "game_id": "0042100306",
+      "home_team": "BOS",
+      "away_team": "MIA"
+    }
+  ],
+  "2022-05-29": [
+    {
+      "game_id": "0042100307",
+      "home_team": "MIA",
+      "away_team": "BOS"
+    }
+  ]
+}

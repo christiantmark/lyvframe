@@ -1,0 +1,37 @@
+{
+"2020-10-02": [
+    {
+      "game_id": "0041900402",
+      "home_team": "LAL",
+      "away_team": "MIA"
+    }
+  ],
+  "2020-10-04": [
+    {
+      "game_id": "0041900403",
+      "home_team": "MIA",
+      "away_team": "LAL"
+    }
+  ],
+  "2020-10-06": [
+    {
+      "game_id": "0041900404",
+      "home_team": "MIA",
+      "away_team": "LAL"
+    }
+  ],
+  "2020-10-09": [
+    {
+      "game_id": "0041900405",
+      "home_team": "LAL",
+      "away_team": "MIA"
+    }
+  ],
+  "2020-10-11": [
+    {
+      "game_id": "0041900406",
+      "home_team": "MIA",
+      "away_team": "LAL"
+    }
+  ]
+}

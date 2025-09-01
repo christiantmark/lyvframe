@@ -1,0 +1,37 @@
+{
+  "2024-06-06": [
+    {
+      "game_id": "0042300401",
+      "home_team": "BOS",
+      "away_team": "DAL"
+    }
+  ],
+  "2024-06-09": [
+    {
+      "game_id": "0042300402",
+      "home_team": "BOS",
+      "away_team": "DAL"
+    }
+  ],
+  "2024-06-12": [
+    {
+      "game_id": "0042300403",
+      "home_team": "DAL",
+      "away_team": "BOS"
+    }
+  ],
+  "2024-06-14": [
+    {
+      "game_id": "0042300404",
+      "home_team": "DAL",
+      "away_team": "BOS"
+    }
+  ],
+  "2024-06-17": [
+    {
+      "game_id": "0042300405",
+      "home_team": "BOS",
+      "away_team": "DAL"
+    }
+  ]
+}
